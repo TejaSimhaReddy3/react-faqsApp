@@ -1,0 +1,30 @@
+.faqLists {
+  list-style: none;
+  border: 1px solid #d7dae6;
+  border-radius: 10px;
+  margin: 10px;
+}
+.faqsQA {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto';
+  padding: 15px;
+}
+.questionHead {
+  color: #52606d;
+  font-size: 20px;
+  font-weight: bold;
+}
+.toggleButton {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.answerContainer {
+  padding: 15px;
+}
+.answerPara {
+  color: #9aa5b1;
+  font-size: 15px;
+  font-weight: 500;
+}
